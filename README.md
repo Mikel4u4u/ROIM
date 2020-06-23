@@ -2,7 +2,7 @@
 
 ## Теоретическая часть 
 Доклад на тему <a href="https://colab.research.google.com/drive/1twB4h1TxneUaRUszkSubSzjSbRg9u9tY?usp=sharing">Non-maximum suppression</a> картинки 
-результатов
+<a href="src/non_max_suppression.ipynb%20-%20Colaboratory.pdf">результатов</a>
 
 ## Практическая часть 
 
