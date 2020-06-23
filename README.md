@@ -1,7 +1,7 @@
 # ROIM
 
 ## Теоретическая часть 
-Доклад на тему <a href="https://colab.research.google.com/drive/1twB4h1TxneUaRUszkSubSzjSbRg9u9tY?usp=sharing">Non-maximum suppression</a> картинки 
+Доклад на тему <a href="https://colab.research.google.com/drive/1twB4h1TxneUaRUszkSubSzjSbRg9u9tY?usp=sharing">Non-maximum suppression</a>  и картинки 
 <a href="non_max_suppression.ipynb%20-%20Colaboratory.pdf">результатов</a>
 
 ## Практическая часть 
