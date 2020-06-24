@@ -13,7 +13,7 @@
    1. элемент 4
    3. элемент 4
 2. Глубокое обучение 
-   1. элемент 4
+   1. <a href="https://drive.google.com/file/d/1IXD4AFEJfDpDqZnds6mo1feRbVYZ7MyC/view?usp=sharing">Py Torch</a> 
    3. элемент 4
 
 
