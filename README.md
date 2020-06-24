@@ -8,7 +8,7 @@
 
 1. Внутренние и внешние критерии
    1. <a href="https://colab.research.google.com/drive/1XfT1L_C-OkMwyMKAqubUV5QmmcY4hKbS?usp=sharing">Эффект переобучения</a> 
-   2. элемент 2
+   2. <a href="https://colab.research.google.com/drive/1Xfncu9CNkIUS0qX-J3-6ng7fqam5obxQ?usp=sharing">Аналитические оценки обобщающей способности </a> 
 2. Отбор информативных признаков
    1. элемент 4
    3. элемент 4
