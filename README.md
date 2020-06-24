@@ -10,10 +10,10 @@
    1. <a href="https://colab.research.google.com/drive/1XfT1L_C-OkMwyMKAqubUV5QmmcY4hKbS?usp=sharing">Эффект переобучения</a> 
    2. элемент 2
 2. элемент 3
-   3. элемент 4
+   1. элемент 4
    3. элемент 4
 2. элемент 3
-   3. элемент 4
+   1. элемент 4
    3. элемент 4
 
 
