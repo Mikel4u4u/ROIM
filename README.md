@@ -15,6 +15,6 @@
 2. Глубокое обучение 
    1. <a href="https://drive.google.com/file/d/1IXD4AFEJfDpDqZnds6mo1feRbVYZ7MyC/view?usp=sharing">Py Torch</a> 
    3. <a href="https://colab.research.google.com/drive/1ukCpoDXZjikmWhM2gC5ka7a0KAd_CyFB?usp=sharing">CNN</a>
-
+   3. <a href="https://colab.research.google.com/drive/1WWT1oNaXoMT6ligoPdlsSXCj2M8MpJAj?usp=sharing">NLP с RNN</a>
 
 
